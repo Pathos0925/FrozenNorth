@@ -1,6 +1,8 @@
 # FrozenNorth
 Modded map for TheIsle
 
+![Screenshot](https://github.com/Pathos0925/FrozenNorth/blob/master/screenshots/Screenshot_520_r.png)
+
 ## To Install:
 
 - Download the pak file from the releases, heres the latest: https://github.com/Pathos0925/FrozenNorth/releases/download/v1.2/FrozenNorth.pak
