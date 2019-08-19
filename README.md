@@ -10,3 +10,10 @@ Modded map for TheIsle
 - Move it to your TheIsle install directory at: {Your steam library folder}\steamapps\common\The Isle\TheIsle\Content\Paks
 - For most people it will be at: C:\Program Files (x86)\Steam\steamapps\common\The Isle\TheIsle\Content\Paks
 - It should appear next to a file named "TheIsle-WindowsNoEditor.pak"
+
+## To run on your own server
+
+- Move the pak file to: The Isle Dedicated Server\TheIsle\Content\Paks
+- It should appear next to a file named "TheIsle-WindowsServer.pak"
+
+- Use the command:  /Game/Mods/FrozenNorth/FrozenNorth?
